@@ -19,7 +19,6 @@ namespace ContinuousDelivery.Tests
             var num3 = num1 + num2;
 
             Assert.AreEqual(3, num3);
-
         }
     }
 }
